@@ -3,7 +3,7 @@
 
 ## Reach Out!
 Here are some ideas to get you started-->
-- My personal website can be found @ http://www.benholmes.me
+- My personal website can be found @ benholmes.me
 - 🔭 I’m currently working as a SDE Intern at Doosan Gridtech
 - 🌱 I’m currently learning React / Typescript
 - 👯 I’m looking to start contrubuting to open source
