@@ -1,6 +1,9 @@
-# Hello there!👋 I'm Benjamin Holmes, Software Engineer in Seattle WA
+# Hello there!👋 
+# I'm Benjamin Holmes, Software Engineer in Seattle WA
 
 [![Linkedin: Ben Holmes](https://img.shields.io/badge/-Ben%20Holmes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beneholmes/)](https://www.linkedin.com/in/beneholmes/)
+
+I am **Ben Holmes** a software developer in the Greater Seattle area specializing in the future resource intensive applications. I am currently working at Doosan GridTech as the primary front-end developer of Site Manager 2.0. I am interesting in the migration of highly reliable applications movement towards API/Web front-end architecture and how quantum computers could change the future of software development and aid us in our fight against climate change.
 
 ## Reach Out!
 Here are some ideas to get you started-->
