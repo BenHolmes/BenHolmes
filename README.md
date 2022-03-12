@@ -3,6 +3,15 @@
 [![Linkedin: Ben Holmes](https://img.shields.io/badge/-Ben%20Holmes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beneholmes/)](https://www.linkedin.com/in/beneholmes/)
 [![Download Resume](https://img.shields.io/badge/-Download%20Resume-grey?style=flat-square)](https://github.com/BenHolmes/benholmes.github.io/raw/main/src/assets/images/Holmes_Resume_v4.5.pdf)
 
+I am **Ben Holmes** a software developer in the Greater Seattle area specializing in the future resource intensive applications. 
+I am currently working at [Doosan GridTech](https://www.doosangridtech.com/) as the primary front-end developer of Site Manager 2.0. 
+I am interested in the migration of highly reliable applications movement towards API/Web front-end architecture and how quantum computers could change the future of software development and aid us in our fight against climate change.
+
+## Reach Out!
+* 🔗 I have a personal website at [benholmes.github.io](https://benholmes.github.io/) where all my social networks and projects are located! You can reach me anywhere over there!
+* 📫 Feel free to email me for any opprotunities
+
+##
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -21,11 +30,3 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-I am **Ben Holmes** a software developer in the Greater Seattle area specializing in the future resource intensive applications. 
-I am currently working at [Doosan GridTech](https://www.doosangridtech.com/) as the primary front-end developer of Site Manager 2.0. 
-I am interested in the migration of highly reliable applications movement towards API/Web front-end architecture and how quantum computers could change the future of software development and aid us in our fight against climate change.
-
-## Reach Out!
-* 🔗 I have a personal website at [benholmes.github.io](https://benholmes.github.io/) where all my social networks and projects are located! You can reach me anywhere over there!
-* 📫 Feel free to email me for any opprotunities
