@@ -1,6 +1,6 @@
 # Hello there!👋 it's me! Ben Holmes, Software Engineer in Seattle
 
-[![Linkedin: Ben Holmes](https://img.shields.io/badge/-Ben%20Holmes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beneholmes/)](<a href="https://www.linkedin.com/in/beneholmes/" target="_blank">Hello, world!</a>)
+[![Linkedin: Ben Holmes](https://img.shields.io/badge/-Ben%20Holmes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beneholmes/)](https://www.linkedin.com/in/beneholmes/)
 
 I am **Ben Holmes** a software developer in the Greater Seattle area specializing in the future resource intensive applications. 
 I am currently working at Doosan GridTech as the primary front-end developer of Site Manager 2.0. 
