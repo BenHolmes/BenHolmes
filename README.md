@@ -8,8 +8,9 @@ I am currently working at [Doosan GridTech](https://www.doosangridtech.com/) as 
 I am interested in the migration of highly reliable applications movement towards API/Web front-end architecture and how quantum computers could change the future of software development and aid us in our fight against climate change.
 
 ## Reach Out!
-* 🔗 I have a personal website at [benholmes.github.io](https://benholmes.github.io/) where all my social networks and projects are located! You can reach me anywhere over there!
-* 📫 Feel free to email me for any opprotunities
+* 🔗 I have a personal website at [benholmes.github.io](https://benholmes.github.io/)
+* 📫 Feel free to email me at [b3njaminholmes@gmail.com](b3njaminholmes@gmail.com)
+* hi
 
 ##
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
