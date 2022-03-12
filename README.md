@@ -12,7 +12,7 @@ I am interested in the migration of highly reliable applications movement toward
 * 📫 Feel free to email me at [b3njaminholmes@gmail.com](b3njaminholmes@gmail.com)
 * hi
 
-##
+## Skill sets in my mental toolbox
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
