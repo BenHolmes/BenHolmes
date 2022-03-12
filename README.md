@@ -4,6 +4,7 @@
 [![Download Resume](https://img.shields.io/badge/-Download%20Resume-grey?style=flat-square)](https://github.com/BenHolmes/benholmes.github.io/raw/main/src/assets/images/Holmes_Resume_v4.5.pdf)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 I am **Ben Holmes** a software developer in the Greater Seattle area specializing in the future resource intensive applications. 
 I am currently working at Doosan GridTech as the primary front-end developer of Site Manager 2.0. 
