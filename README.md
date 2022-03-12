@@ -23,7 +23,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 I am **Ben Holmes** a software developer in the Greater Seattle area specializing in the future resource intensive applications. 
-I am currently working at Doosan GridTech as the primary front-end developer of Site Manager 2.0. 
+I am currently working at [Doosan GridTech](https://www.doosangridtech.com/) as the primary front-end developer of Site Manager 2.0. 
 I am interested in the migration of highly reliable applications movement towards API/Web front-end architecture and how quantum computers could change the future of software development and aid us in our fight against climate change.
 
 ## Reach Out!
