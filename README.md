@@ -8,7 +8,7 @@ I am currently working at [Doosan GridTech](https://www.doosangridtech.com/) as 
 I am interested in the migration of highly reliable applications movement towards API/Web front-end architecture and how quantum computers could change the future of software development and aid us in our fight against climate change.
 
 ## Reach Out!
-* 🔗 I have a personal website at [benholmes.github.io](https://benholmes.net/)
+* 🔗 I have a personal website at [benholmes.net](https://benholmes.net/)
 * 📫 Feel free to email me at [me@benholmes.net](me@benholmes.net)
 
 ## Skill Sets in my Mental Toolbox
