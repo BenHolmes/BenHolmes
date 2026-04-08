@@ -3,9 +3,8 @@
 [![Linkedin: Ben Holmes](https://img.shields.io/badge/-Ben%20Holmes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beneholmes/)](https://www.linkedin.com/in/beneholmes/)
 [![Download Resume](https://img.shields.io/badge/-Download%20Resume-grey?style=flat-square)](https://github.com/BenHolmes/benholmes.github.io/raw/main/src/assets/images/Holmes_Resume_v4.5.pdf)
 
-I am **Ben Holmes** a software developer in the Greater Seattle area specializing in the future resource intensive applications. 
-I am currently working at [Doosan GridTech](https://www.doosangridtech.com/) as the primary front-end developer of [Site Manager 2.0](https://www.doosangridtech.com/products/overview/). 
-I am interested in the migration of highly reliable applications movement towards API/Web front-end architecture and how quantum computers could change the future of software development and aid us in our fight against climate change.
+I'm Ben! A software engineer passionate about clean energy and open source technology. By day I work on energy management systems for solar and battery storage sites; in my own time I build self-hosted, open source applications that give people more control over the digital tools we have become accustom to.
+Every contribution helps me carve out more time to build, maintain, and improve these tools; keeping them free, open, and community-driven. If you believe in open source software and a cleaner energy future, I'd appreciate your support!
 
 ## Reach Out!
 * 🔗 I have a personal website at [benholmes.net](https://benholmes.net/)
