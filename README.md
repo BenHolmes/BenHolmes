@@ -1,4 +1,4 @@
-# Hello there!👋 it's me! Ben Holmes, Software Engineer in Seattle
+# Hello there!👋 it's me! Ben Holmes
 
 [![Linkedin: Ben Holmes](https://img.shields.io/badge/-Ben%20Holmes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beneholmes/)](https://www.linkedin.com/in/beneholmes/)
 [![Download Resume](https://img.shields.io/badge/-Download%20Resume-grey?style=flat-square)](https://github.com/BenHolmes/benholmes.github.io/raw/main/src/assets/images/Holmes_Resume_v4.5.pdf)
