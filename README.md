@@ -6,6 +6,8 @@
 I'm Ben! A software engineer passionate about clean energy and open source technology. By day I work on energy management systems for solar and battery storage sites; in my own time I build self-hosted, open source applications that give people more control over the digital tools we have become accustom to.
 Every contribution helps me carve out more time to build, maintain, and improve these tools; keeping them free, open, and community-driven. If you believe in open source software and a cleaner energy future, I'd appreciate your support!
 
+[![Shield: Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Support-yellow?logo=buymeacoffee)](https://buymeacoffee.com/benholmes)
+
 ## Reach Out!
 * 🔗 I have a personal website at [benholmes.net](https://benholmes.net/)
 * 📫 Feel free to email me at [me@benholmes.net](me@benholmes.net)
